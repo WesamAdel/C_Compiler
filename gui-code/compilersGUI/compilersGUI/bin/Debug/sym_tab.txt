@@ -1,0 +1,7 @@
+x	integer	0	No
+y	integer	0	No
+i	integer	0	No
+z	integer	2	No
+myfloat	float	2	No
+mychar	char	3	No
+v	integer	3	Yes

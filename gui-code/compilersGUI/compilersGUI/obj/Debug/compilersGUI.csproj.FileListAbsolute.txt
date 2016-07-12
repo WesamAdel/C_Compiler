@@ -1,0 +1,9 @@
+C:\Users\Ahmad\Desktop\compilers\gui-code\compilersGUI\compilersGUI\bin\Debug\compilersGUI.exe.config
+C:\Users\Ahmad\Desktop\compilers\gui-code\compilersGUI\compilersGUI\bin\Debug\compilersGUI.exe
+C:\Users\Ahmad\Desktop\compilers\gui-code\compilersGUI\compilersGUI\bin\Debug\compilersGUI.pdb
+C:\Users\Ahmad\Desktop\compilers\gui-code\compilersGUI\compilersGUI\obj\Debug\compilersGUI.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Desktop\compilers\gui-code\compilersGUI\compilersGUI\obj\Debug\compilersGUI.GUI.resources
+C:\Users\Ahmad\Desktop\compilers\gui-code\compilersGUI\compilersGUI\obj\Debug\compilersGUI.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\compilers\gui-code\compilersGUI\compilersGUI\obj\Debug\compilersGUI.csproj.GenerateResource.Cache
+C:\Users\Ahmad\Desktop\compilers\gui-code\compilersGUI\compilersGUI\obj\Debug\compilersGUI.exe
+C:\Users\Ahmad\Desktop\compilers\gui-code\compilersGUI\compilersGUI\obj\Debug\compilersGUI.pdb

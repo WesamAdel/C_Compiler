@@ -1,0 +1,6 @@
+test	boolean	0	No
+flag	boolean	0	No
+tmp	boolean	0	No
+x	integer	0	No
+y	float	0	No
+u	boolean	0	No

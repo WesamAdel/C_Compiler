@@ -1,0 +1,43 @@
+Define BOOL test
+stor test, false
+Define BOOL flag
+stor flag, true
+Define BOOL tmp
+stor tmp, false
+Define INT x
+stor x, 0
+or R0, test, flag
+NOT R1, R0
+and R2, R1, tmp
+JZ R2, L_0
+add R3, x, 7
+stor x, R3
+L_0:
+EQ R5, test, true
+JZ R5, L_1
+add R6, x, 100
+stor x, R6
+L_1:
+GT R8, x, 10
+JZ R8, L_2
+stor test, true
+JMP L_3
+L_2:
+stor x, 0
+L_3:
+GT R11, x, 100
+JZ R11, L_4
+stor x, 10
+JMP L_5
+L_4:
+GT R13, x, 1000
+JZ R13, L_6
+stor x, 100
+JMP L_7
+L_6:
+stor x, 1
+L_7:
+L_5:
+Define FLOAT y
+Define BOOL u
+stor u, true

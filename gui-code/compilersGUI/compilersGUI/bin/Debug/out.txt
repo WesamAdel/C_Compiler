@@ -1,0 +1,29 @@
+Define INT x
+stor x, 5
+Define INT y
+stor y, 7
+Define INT i
+stor i, 0
+L_0:
+LT R1, i, 7
+JZ R1, L_1
+div R2, x, 1
+stor i, R2
+add R4, y, 1
+stor i, R4
+JMP L_0
+L_1:
+L_2:
+GT R6, x, 7
+JZ R6, L_3
+stor y, 8
+Define INT z
+stor z, 900
+Define FLOAT myfloat
+stor myfloat, 17.200001
+JMP L_2
+L_3:
+Define CHAR mychar
+stor mychar, '7'
+Define INT v
+stor v, 0

@@ -1,0 +1,6 @@
+stor
+mov
+add
+sub
+or
+and

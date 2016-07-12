@@ -1,0 +1,16 @@
+E:\compilersGUI\compilersGUI\bin\Release\compilersGUI.exe.config
+E:\compilersGUI\compilersGUI\bin\Release\compilersGUI.exe
+E:\compilersGUI\compilersGUI\bin\Release\compilersGUI.pdb
+E:\compilersGUI\compilersGUI\obj\Release\compilersGUI.Properties.Resources.resources
+E:\compilersGUI\compilersGUI\obj\Release\compilersGUI.csproj.GenerateResource.Cache
+E:\compilersGUI\compilersGUI\obj\Release\compilersGUI.exe
+E:\compilersGUI\compilersGUI\obj\Release\compilersGUI.pdb
+E:\compilersGUI\compilersGUI\obj\Release\compilersGUI.GUI.resources
+C:\Users\Ahmad\Desktop\compilers\gui-code\compilersGUI\compilersGUI\bin\Release\compilersGUI.exe.config
+C:\Users\Ahmad\Desktop\compilers\gui-code\compilersGUI\compilersGUI\obj\Release\compilersGUI.exe
+C:\Users\Ahmad\Desktop\compilers\gui-code\compilersGUI\compilersGUI\obj\Release\compilersGUI.pdb
+C:\Users\Ahmad\Desktop\compilers\gui-code\compilersGUI\compilersGUI\bin\Release\compilersGUI.exe
+C:\Users\Ahmad\Desktop\compilers\gui-code\compilersGUI\compilersGUI\bin\Release\compilersGUI.pdb
+C:\Users\Ahmad\Desktop\compilers\gui-code\compilersGUI\compilersGUI\obj\Release\compilersGUI.GUI.resources
+C:\Users\Ahmad\Desktop\compilers\gui-code\compilersGUI\compilersGUI\obj\Release\compilersGUI.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\compilers\gui-code\compilersGUI\compilersGUI\obj\Release\compilersGUI.csproj.GenerateResource.Cache
